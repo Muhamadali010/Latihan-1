@@ -29,3 +29,34 @@ Membuat Reposiory Local
 • Buka direktory aktif, misal: /d/Latihan VCS (buka menggunakan Windows Explorer)
 
 • Buat direktory project praktikum pertama dengan nama <strong>Tugas1
+
+![image](SC/2.png)
+
+• Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah <strong>cd</strong>
+(change directory)
+
+• direktory aktif menjadi: /d/Latihan VCS/Tugas1
+
+<strong>Membuat Repository Local</strong>
+
+• Jalankan perintah git init, untuk membuat repository local.</p>
+
+• lalu tambahkan git add README.md
+
+![image](SC/3.png)
+
+• Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
+
+• Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
+
+<H5>Menambahkan File baru pada repository</H5>
+
+• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+
+• ketik perintah git commit -m "file pertama"
+
+• git remote add origin https://github.com/Muhamadali010/Latihan1.git
+
+• git push -u origin master/main
+
+![image](SC/4.png)
