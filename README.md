@@ -7,4 +7,4 @@ CARA MENGGUNAKAN GIT
 3.setelah terinstall,Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
 git --version.
-![image](SC/Capture.jpg)
+![image](SC/1.png)
