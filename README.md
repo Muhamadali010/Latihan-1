@@ -22,10 +22,10 @@
 
 • konfigurasi ini bisa dilakukan untuk global repository atau individual repository.
 
-  apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
+<strong>apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit<strong>
     
 
-  Config Global Repository
+  <strong>Config Global Repository<strong>
 
 $ git config --global user.name “nama_user”
 
