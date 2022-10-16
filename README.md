@@ -25,11 +25,11 @@
 <strong>apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit<strong>
     
 
-  <strong>Config Global Repository<strong>
+  # Config Global Repository
 
-$ git config --global user.name “nama_user”
+<strong>$ git config --global user.name “nama_user”<strong>
 
-$ git config --global user.email “nama_user”
+<strong>$ git config --global user.email “nama_user”<strong>
 
 
 # Membuat Reposiory Local
