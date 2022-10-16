@@ -53,7 +53,7 @@ $ git config --global user.email “nama_user”
 ![image](SC/2.png)
 
 
-# Membuat Repository Local
+# Membuat Repository github
 
 • Login Akun github
 
@@ -72,7 +72,7 @@ $ git config --global user.email “nama_user”
 
 • Jalankan git status, lalu jalan perintah git add .
 
-• Jalankan perintah git commit -m "file pertama"
+• Jalankan perintah git commit -m "Update Tugas"
 
 • git remote add origin https://github.com/Muhamadali010/Latihan1.git
 
