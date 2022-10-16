@@ -3,13 +3,18 @@
 
 2. Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
+
 ![image](SC/Capture.PNG)
+
 
 3. setelah terinstall,Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
   git --version.
 
+
 ![image](SC/1.png)
+
+
 
 # Menambahkan Global Config
 
@@ -33,7 +38,9 @@ $ git config --global user.email “nama_user”
 
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash here
 
+
 ![image](SC/Capture2.png)
+
 
 • Buat direktory project praktikum pertama dengan nama <strong>Latihan_1
 
@@ -42,21 +49,23 @@ $ git config --global user.email “nama_user”
 
 • direktory aktif menjadi: /d/Latihan VCS/Latihan_1
 
+
 ![image](SC/2.png)
+
 
 # Membuat Repository Local
 
 • Login Akun github
 
+
 ![image](SC/5.PNG)
+
 
 • klik New Recen Repositories
 
+
 ![image](SC/Capture3.PNG)
 
-• lalu tambahkan git add README.md
-
-![image](SC/3.png)
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
 
