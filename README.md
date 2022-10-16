@@ -1,25 +1,26 @@
 # LANGKAH-LANGKAH MENGGUNAKAN GITHUB
-1.Download Git, buka website resminya Git (git-scm.com).
+1. Download Git, buka website resminya Git (git-scm.com).
 
-2.Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
+2. Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
 ![image](SC/Capture.PNG)
 
-3.setelah terinstall,Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
+3. setelah terinstall,Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
-git --version.
+  git --version.
 
 ![image](SC/1.png)
 
 # Menambahkan Global Config
 
-1.Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
+1. Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 
-2.konfigurasi ini bisa dilakukan untuk global repository atau individual repository.
+2. konfigurasi ini bisa dilakukan untuk global repository atau individual repository.
 
-apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
+  apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi kegagalan saat menjalankan perintah git commit
     
-Config Global Repository
+
+  Config Global Repository
 
 $ git config --global user.name “nama_user”
 
@@ -28,14 +29,20 @@ $ git config --global user.email “nama_user”
 
 # Membuat Reposiory Local
 
-• Buka direktory aktif, misal: /d/Latihan VCS (buka menggunakan Windows Explorer)
+• Buka direktory aktif, misal: /d/Latihan VCS
 
-• Buat direktory project praktikum pertama dengan nama <strong>Tugas1
+• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash,
+
+  sehingga muncul git bash commad
+
+  ![image](SC/Capture2.png)
+
+• Buat direktory project praktikum pertama dengan nama <strong>Latihan_1
 
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah <strong>cd</strong>
-(change directory)
+  (change directory)
 
-• direktory aktif menjadi: /d/Latihan VCS/Tugas1
+• direktory aktif menjadi: /d/Latihan VCS/Latihan_1
 
 ![image](SC/2.png)
 
