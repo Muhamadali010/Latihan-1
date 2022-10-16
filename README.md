@@ -1,5 +1,4 @@
-# Latihan_1
-CARA MENGGUNAKAN GIT
+# CARA MENGGUNAKAN GIT
 1.Download Git, buka website resminya Git (git-scm.com).
 
 2.Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
@@ -10,7 +9,7 @@ git --version.
 
 ![image](SC/1.png)
 
-Menambahkan Global Config
+# Menambahkan Global Config
 
 1.Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 
@@ -24,7 +23,7 @@ $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
 
 
-Membuat Reposiory Local
+# Membuat Reposiory Local
 
 • Buka direktory aktif, misal: /d/Latihan VCS (buka menggunakan Windows Explorer)
 
@@ -37,9 +36,9 @@ Membuat Reposiory Local
 
 • direktory aktif menjadi: /d/Latihan VCS/Tugas1
 
-<strong>Membuat Repository Local</strong>
+# Membuat Repository Local
 
-• Jalankan perintah git init, untuk membuat repository local.</p>
+• Jalankan perintah git init, untuk membuat repository local.
 
 • lalu tambahkan git add README.md
 
@@ -49,7 +48,7 @@ Membuat Reposiory Local
 
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
-<H5>Menambahkan File baru pada repository</H5>
+# Menambahkan File baru pada repository
 
 • Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
 
