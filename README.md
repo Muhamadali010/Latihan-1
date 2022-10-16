@@ -66,16 +66,13 @@ $ git config --global user.email “nama_user”
 
 ![image](SC/Capture3.PNG)
 
-
-• Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git
-
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
 # Menambahkan File baru pada repository
 
-• Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
+• Jalankan git status, lalu jalan perintah git add .
 
-• ketik perintah git commit -m "file pertama"
+• Jalankan perintah git commit -m "file pertama"
 
 • git remote add origin https://github.com/Muhamadali010/Latihan1.git
 
