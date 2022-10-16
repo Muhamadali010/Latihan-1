@@ -31,11 +31,9 @@ $ git config --global user.email “nama_user”
 
 • Buka direktory aktif, misal: /d/Latihan VCS
 
-• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash,
+• klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash here
 
-  sehingga muncul git bash commad
-
-  ![image](SC/Capture2.png)
+![image](SC/Capture2.png)
 
 • Buat direktory project praktikum pertama dengan nama <strong>Latihan_1
 
@@ -46,13 +44,15 @@ $ git config --global user.email “nama_user”
 
 ![image](SC/2.png)
 
-# Membuat Akun github
-
-• 
-
 # Membuat Repository Local
 
-• Jalankan perintah git init, untuk membuat repository local.
+• Login Akun github
+
+![image](SC/5.PNG)
+
+• klik New Recen Repositories
+
+![image](SC/Capture3.PNG)
 
 • lalu tambahkan git add README.md
 
