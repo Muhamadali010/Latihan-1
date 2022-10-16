@@ -4,7 +4,7 @@
 2. Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
 
-![image](SC/Capture.PNG)
+![image](SC/SC1.PNG)
 
 
 3. setelah terinstall,Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
@@ -12,7 +12,7 @@
   git --version.
 
 
-![image](SC/1.png)
+![image](SC/SC2.png)
 
 
 
@@ -39,7 +39,7 @@ $ git config --global user.email “nama_user”
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash here
 
 
-![image](SC/Capture2.png)
+![image](SC/SC3.png)
 
 
 • Buat direktory project praktikum pertama dengan nama <strong>Latihan_1
@@ -50,7 +50,7 @@ $ git config --global user.email “nama_user”
 • direktory aktif menjadi: /d/Latihan VCS/Latihan_1
 
 
-![image](SC/2.png)
+![image](SC/SC4.png)
 
 
 # Membuat Repository github
@@ -58,13 +58,13 @@ $ git config --global user.email “nama_user”
 • Login Akun github
 
 
-![image](SC/5.PNG)
+![image](SC/SC5.PNG)
 
 
 • klik New Recen Repositories
 
 
-![image](SC/Capture3.PNG)
+![image](SC/SC6.PNG)
 
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
@@ -78,4 +78,19 @@ $ git config --global user.email “nama_user”
 
 • git push -u origin master/main
 
-![image](SC/4.png)
+![image](SC/SC7.png)
+
+
+• Maka Hasilnya akan seperti ini
+
+
+![image](SC/Finish.PNG)
+
+
+JANGAN LUPA LINK NYA DI UPLOAD DI E-CAMPUS YA.......!!!!!!
+
+
+![image](SC/Link%20tugas%20untuk%20di%20upload%20di%20ecampus.png)
+
+
+#.....................THANK YOU.......................
